@@ -1,44 +1,70 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img alt="Clone Discord" src="assets/Clone-Discord.png" />
 
-## Available Scripts
+<p align="center">
 
-In the project directory, you can run:
+  <a href="LICENSE" style="text-decoration: none">
+    <img alt="License" src="https://img.shields.io/github/license/wesleyfeitosa/clone-discord?color=827DDC" />
+  </a>
 
-### `yarn start`
+  <a href="https://github.com/wesleyfeitosa/clone-discord/issues" style="text-decoration: none">
+    <img alt="Issues" src="https://img.shields.io/github/issues/wesleyfeitosa/clone-discord?color=827DDC" />
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="#" style="text-decoration: none">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/wesleyfeitosa/clone-discord?color=827DDC" />
+  </a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <a href="https://github.com/wesleyfeitosa/clone-discord/stargazers" style="text-decoration: none">
+    <img alt="Stars" src="https://img.shields.io/github/stars/wesleyfeitosa/clone-discord?style=social" />
+  </a>
 
-### `yarn test`
+</p>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :rocket: Technologies
 
-### `yarn build`
+This project was developed with the following technologies:
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
+- [Styled-Components](https://styled-components.com/)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 💻 Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project was made with the objective of learning, techniques of structuring HTML and stulizing CSS could be better understood with this project.
 
-### `yarn eject`
+<img src="assets/clone-discord-home.png" alt="Home Clone Discord" />
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :hammer: Deploy
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Frontend/Web: https://clone-discord.wesleyfeitosa.com.br/
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🤔 How to contribute
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b my-feature`;
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+- Push to your branch: `git push origin my-feature`.
 
-## Learn More
+After the merge of your pull request is done, you can delete your branch.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔖 How to run
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### Cloning the project
+```sh
+git clone https://github.com/wesleyfeitosa/clone-discord.git
+cd clone-discord
+npm install
+```
+
+#### Starting Project
+```sh
+yarn start
+```
+
+## :memo: License
+
+This project is under the MIT license. See the file [LICENSE](LICENSE) for more details.
+
+---
+
+Made with 💜 by Wesley Feitosa :wave:
