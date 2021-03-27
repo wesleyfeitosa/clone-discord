@@ -36,7 +36,7 @@ This project was made with the objective of learning, techniques of structuring 
 
 ## :hammer: Deploy
 
-- Frontend/Web: https://clone-discord.wesleyfeitosa.com.br/
+- Frontend/Web: https://nostalgic-saha-338c7c.netlify.app/
 
 ## 🤔 How to contribute
 
